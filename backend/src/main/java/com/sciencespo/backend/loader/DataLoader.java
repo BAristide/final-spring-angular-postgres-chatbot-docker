@@ -1,4 +1,4 @@
-package net.youssfi.backend.loader;
+package com.sciencespo.backend.loader;
 
 import com.fasterxml.jackson.module.jsonSchema.JsonSchema;
 import jakarta.annotation.PostConstruct;

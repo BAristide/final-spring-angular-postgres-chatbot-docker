@@ -1,4 +1,4 @@
-package net.youssfi.backend.entities;
+package com.sciencespo.backend.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

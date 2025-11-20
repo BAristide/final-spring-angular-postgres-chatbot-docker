@@ -1,4 +1,4 @@
-package net.youssfi.backend.web;
+package com.sciencespo.backend.web;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;

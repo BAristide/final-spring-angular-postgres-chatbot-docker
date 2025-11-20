@@ -1,7 +1,7 @@
-package net.youssfi.backend;
+package com.sciencespo.backend;
 
-import net.youssfi.backend.entities.CryptoCurrency;
-import net.youssfi.backend.repository.CryptoCurrencyRepository;
+import com.sciencespo.backend.entities.CryptoCurrency;
+import com.sciencespo.backend.repository.CryptoCurrencyRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
