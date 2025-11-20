@@ -1,7 +1,7 @@
-package net.youssfi.backend.web;
+package com.sciencespo.backend.web;
 
-import net.youssfi.backend.entities.CryptoCurrency;
-import net.youssfi.backend.repository.CryptoCurrencyRepository;
+import com.sciencespo.backend.entities.CryptoCurrency;
+import com.sciencespo.backend.repository.CryptoCurrencyRepository;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -8,7 +8,7 @@
         <version>3.3.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>net.youssfi</groupId>
+    <groupId>com.sciencespo</groupId>
     <artifactId>backend</artifactId>
     <version>1.O.0</version>
     <name>backend</name>
